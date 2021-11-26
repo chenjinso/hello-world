@@ -14,5 +14,6 @@ char*StrCpy(char*src)
 	return str;
 }
 /**
-   本地编辑B20031622陈锦淞
+Remote edit B20031622陈锦淞
 **/
+
